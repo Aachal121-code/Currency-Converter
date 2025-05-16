@@ -1,5 +1,5 @@
 const BASE_URL ='https://api.exchangerate-api.com/v4/latest/USD?amount=100&to=EUR.json';
-  // 'https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies.json';
+
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
