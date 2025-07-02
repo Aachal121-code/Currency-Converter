@@ -28,5 +28,8 @@ This is a simple and user-friendly web-based Currency Converter application. It 
 - Ensure you have an active internet connection to fetch live exchange rates and flag images.
 - The default conversion is from USD to INR with an amount of 1.
 
+## Screenshots 
+Currency Converter : ![image](https://github.com/user-attachments/assets/5ceed53a-16a1-486d-88db-8f54b6f8a95f)
+
 ## License
 This project is open source and free to use.
